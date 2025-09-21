@@ -7,7 +7,7 @@ export default function Home(){
 
     const navigate = useNavigate('') 
     const [searchValue, setSearchValue] = useState('');  
-    // const apikey = '3c081bb7' ; 
+     
     const apikey = 'Your Api Key' ; 
 
 
